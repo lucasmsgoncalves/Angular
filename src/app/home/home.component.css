@@ -3,5 +3,47 @@
 }
 
 .cor-nav {
-  background-color: dodgerblue;
+  background-color: red;
+}
+
+.row{
+  width: 30%;
+  float: left;
+  padding: 2%;
+  margin-top: 2%;
+}
+
+.open {
+  position: absolute;
+  margin-top: 8%;
+  left: 8%;
+  z-index: 3;
+  color: white;
+}
+
+.danger{
+  position: absolute;
+  margin-top: 8%;
+  left: 38%;
+  z-index: 3;
+  color: white;
+}
+
+.done{
+  position: absolute;
+  margin-top: 8%;
+  left: 68%;
+  z-index: 3;
+  color: white;
+}
+
+h1{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+h5{
+  font-size: 40px !important;
 }
