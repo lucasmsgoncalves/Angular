@@ -1,6 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
 .fundo {
-  background-image: url('./assets/images/fundo.jpeg');
+  background-image: url('./assets/images/fundo.jpg');
   background-size: cover;
   height: 100%;
   width: 100%;
